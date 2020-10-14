@@ -1,7 +1,7 @@
 # announcement-script
 {Cyberwire Development}
 
-# ===A Permission Based Announcement Script made by Cyberwire Development===
+ ===A Permission Based Announcement Script made by Cyberwire Development===
 
 # Installation Guide
 1. Download the announcement script
@@ -15,9 +15,11 @@ Then replace "STEAM_HEX" with you steam hex (You can get it from Vacbanned.com)
 Restart your server
 
 ---------------------------------------------------
-add_ace Announce announcement allow               
-                                                  
+
+add_ace Announce announcement allow      
+
 add_principal identifier.steam:STEAM_HEX Announce 
+
 ---------------------------------------------------
 
 
@@ -33,5 +35,5 @@ If you want to change the colour then change the FiveM colour code in server.lua
 
 For the ERROR message colour that is RGB in client.lua
 
-# ===Permission Based Announcement Script by Cyberwire Development===
+===Permission Based Announcement Script by Cyberwire Development===
 
